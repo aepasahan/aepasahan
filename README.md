@@ -16,4 +16,4 @@
 <a href="https://instagram.com/aepasahan.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aepasahan.dev" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aepasahan&show_icons=true&locale=en" alt="aepasahan" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aepasahan&show_icons=true&locale=en" alt="aepasahan" /></p>
