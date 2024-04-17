@@ -5,4 +5,4 @@
 
 ## Contact
 - LinkedIn: [aepasahan](https://www.linkedin.com/in/aepasahan/)
-- Personal Website: [aepasahan.com](https://www.aepasahan.com)
+- Website: [aepasahan.com](https://www.aepasahan.com)
