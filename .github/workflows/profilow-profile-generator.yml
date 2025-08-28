@@ -1,0 +1,25 @@
+name: Generate Profile
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Daily at midnight
+  workflow_dispatch: # Manual trigger
+  push:
+    branches: [ main ]
+    paths: [ 'profilow.config.json' ]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+      
+    - name: Profilow Profile Generator
+    uses: aepasahan/profile-generator-action@v.1.0.0-alpha
+      with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        config-path: 'profilow.config.json'
+        output-path: 'profile.png'
+        commit-message: 'Update profile image [skip ci]'
