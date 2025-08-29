@@ -20,7 +20,7 @@ jobs:
       uses: actions/checkout@v4
       
     - name: Profilow Profile Generator
-      uses: profilow/profile-generator-action@v1.0.5-alpha
+      uses: profilow/profile-generator-action@v1.0.6-alpha
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
         config-path: 'profilow.config.json'
