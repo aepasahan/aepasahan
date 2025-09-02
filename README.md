@@ -1,5 +1,3 @@
-![Profile](profile.png)
-
 <h1 align="center">Hi 👋, I'm Ahmet Erkan</h1>
 <h3 align="center">Full Stack Developer in Istanbul</h3>
 
