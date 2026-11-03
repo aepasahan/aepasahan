@@ -1,11 +1,19 @@
-<h1 align="center">Hi 👋, I'm Ahmet Erkan</h1>
+<!-- ═══════════════ HEADER ═══════════════ -->
+<h1 align="center">
+<a href="https://aepasahan.com"><img align="left" src="./assets/logo.svg" height="34" width="224" alt="AE" /></a>
+<a href="https://aepasahan.com"><img align="right" src="./assets/cta-website.svg" height="34" alt="Visit website" /></a>
+<a href="https://github.com/aepasahan"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-follow-dark.svg" /><img align="right" src="./assets/btn-follow-light.svg" height="34" alt="Follow on GitHub" /></picture></a>
+Ahmet Erkan Paşahan
+</h1>
+
+<!-- ═══════════════ CONTENT ═══════════════ -->
 <h3 align="center">Full Stack Developer in Istanbul</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aepasahan&label=Profile%20views&color=0e75b6&style=flat" alt="aepasahan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/aepasahan_dev" target="blank"><img src="https://img.shields.io/twitter/follow/aepasahan_dev?logo=twitter&style=for-the-badge" alt="aepasahan_dev" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [aepasahan.com](aepasahan.com)
+- 👨‍💻 All of my projects are available at [aepasahan.com](https://aepasahan.com)
 
 - 📫 How to reach me **aepasahan.dev@gmail.com**
 
