@@ -7,9 +7,47 @@ Ahmet Erkan Paşahan
 
 <!-- ═══════════════ INTRO ═══════════════ -->
 <p align="center">
-<b>Hi 👋, I'm Ahmet Erkan — a Full Stack Developer based in Istanbul.</b><br />
-I build web products end to end, from the interface down to the API, and I currently work at
-<a href="https://github.com/creetivelab">Creetive Lab</a>.
+<b>Hi 👋, I'm Ahmet Erkan — a full-stack engineer &amp; product designer based in Istanbul.</b><br />
+For 8+ years I've been creating scalable digital systems, captivating experiences and modern web applications,
+working at the intersection of elegant UI design and robust software engineering.
+</p>
+
+<br />
+
+<!-- ═══════════════ EXPERIENCE ═══════════════ -->
+## 💼 Currently
+
+<p align="center">
+<a href="https://aepasahan.com/about"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/exp-aepasahan-dev-dark.svg" /><img src="./assets/cards/exp-aepasahan-dev-light.svg" width="276" alt="aepasahan.dev — Solopreneur & Founder (2023 – Present)" /></picture></a>
+<a href="https://aepasahan.com/about"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/exp-basevare-dark.svg" /><img src="./assets/cards/exp-basevare-light.svg" width="276" alt="Basevare — Software Team Lead (2019 – Present)" /></picture></a>
+<a href="https://aepasahan.com/about"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/exp-creetivelab-dark.svg" /><img src="./assets/cards/exp-creetivelab-light.svg" width="276" alt="Creetive Lab — Full Stack Developer (2019 – Present)" /></picture></a>
+</p>
+
+<p align="center">
+<b>Previously</b><br />
+UI/UX Designer at Webgen Design <i>(2018 – 2021)</i> · Front End Developer at Webgen Design <i>(2016 – 2018)</i><br />
+Front End Developer at Pixeg <i>(2016)</i>
+</p>
+
+<br />
+
+<!-- ═══════════════ PROJECTS ═══════════════ -->
+## 🚀 Selected Works
+
+<p align="center">
+<a href="https://aepasahan.com/projects"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/proj-flexful-colors-dark.svg" /><img src="./assets/cards/proj-flexful-colors-light.svg" width="276" alt="Flexful Colors — Tool · 2024" /></picture></a>
+<a href="https://aepasahan.com/projects"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/proj-ts-auto-import-organizer-dark.svg" /><img src="./assets/cards/proj-ts-auto-import-organizer-light.svg" width="276" alt="TS Auto Import Organizer — Tool · 2024" /></picture></a>
+<a href="https://aepasahan.com/projects"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/proj-reentaly-dark.svg" /><img src="./assets/cards/proj-reentaly-light.svg" width="276" alt="Reentaly — Web App · 2023" /></picture></a>
+<a href="https://aepasahan.com/projects"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/proj-project-l-veni-vidi-legi-dark.svg" /><img src="./assets/cards/proj-project-l-veni-vidi-legi-light.svg" width="276" alt="Project L (Veni, Vidi, Legi) — Platform · 2023" /></picture></a>
+<a href="https://aepasahan.com/projects"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/proj-ims-education-automation-dark.svg" /><img src="./assets/cards/proj-ims-education-automation-light.svg" width="276" alt="IMS Education Automation — Web App · 2022" /></picture></a>
+<a href="https://aepasahan.com/projects"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/proj-rehabox-dark.svg" /><img src="./assets/cards/proj-rehabox-light.svg" width="276" alt="Rehabox — Mobile · 2021" /></picture></a>
+<a href="https://aepasahan.com/projects"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/proj-covid-breathe-dark.svg" /><img src="./assets/cards/proj-covid-breathe-light.svg" width="276" alt="Covid Breathe — Mobile · 2020" /></picture></a>
+<a href="https://aepasahan.com/projects"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/proj-passlist-dark.svg" /><img src="./assets/cards/proj-passlist-light.svg" width="276" alt="PassList — Security · 2019" /></picture></a>
+<a href="https://aepasahan.com/projects"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/proj-servicy-follow-dark.svg" /><img src="./assets/cards/proj-servicy-follow-light.svg" width="276" alt="Servicy Follow — Mobile · 2019" /></picture></a>
+</p>
+
+<p align="center">
+<a href="https://aepasahan.com/projects"><img src="./assets/cta-projects.svg" height="34" alt="Explore all projects" /></a>
 </p>
 
 <br />
