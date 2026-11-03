@@ -5,19 +5,29 @@
 Ahmet Erkan Paşahan
 </h1>
 
-<!-- ═══════════════ CONTENT ═══════════════ -->
-<h3 align="center">Full Stack Developer in Istanbul</h3>
+<!-- ═══════════════ INTRO ═══════════════ -->
+<p align="center">
+<b>Hi 👋, I'm Ahmet Erkan — a Full Stack Developer based in Istanbul.</b><br />
+I build web products end to end, from the interface down to the API, and I currently work at
+<a href="https://github.com/creetivelab">Creetive Lab</a>.
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aepasahan&label=Profile%20views&color=0e75b6&style=flat" alt="aepasahan" /> </p>
+<br />
 
-<p align="left"> <a href="https://twitter.com/aepasahan_dev" target="blank"><img src="https://img.shields.io/twitter/follow/aepasahan_dev?logo=twitter&style=for-the-badge" alt="aepasahan_dev" /></a> </p>
+<!-- ═══════════════ MEET ME IN YOUR TERMINAL ═══════════════ -->
+## ⌨️ Meet me in your terminal
 
-- 👨‍💻 All of my projects are available at [aepasahan.com](https://aepasahan.com)
+<p align="center">
+<a href="https://www.npmjs.com/package/aepasahan"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/terminal-dark.svg" /><img src="./assets/terminal-light.svg" width="640" alt="npx aepasahan — interactive business card" /></picture></a>
+</p>
 
-- 📫 How to reach me **aepasahan.dev@gmail.com**
+<p align="center">A small interactive business card. Run it, use the arrow keys and press enter.<br />No install or sign-up needed — <code>npx</code> comes with Node.js.</p>
 
+```bash
+npx aepasahan
+```
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aepasahan&show_icons=true&locale=en" alt="aepasahan" /></p>
+<br />
 
 <!-- ═══════════════ FOOTER ═══════════════ -->
 <hr />
