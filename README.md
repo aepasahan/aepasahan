@@ -20,7 +20,7 @@ working at the intersection of elegant UI design and robust software engineering
 <p align="center">
 <a href="https://aepasahan.com/about"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/exp-aepasahan-dev-dark.svg" /><img src="./assets/cards/exp-aepasahan-dev-light.svg" width="276" alt="aepasahan.dev — Solopreneur & Founder (2023 – Present)" /></picture></a>
 <a href="https://aepasahan.com/about"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/exp-basevare-dark.svg" /><img src="./assets/cards/exp-basevare-light.svg" width="276" alt="Basevare — Software Team Lead (2019 – Present)" /></picture></a>
-<a href="https://aepasahan.com/about"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/exp-creetivelab-dark.svg" /><img src="./assets/cards/exp-creetivelab-light.svg" width="276" alt="Creetive Lab — Full Stack Developer (2019 – Present)" /></picture></a>
+<a href="https://aepasahan.com/about"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/exp-creetivelab-dark.svg" /><img src="./assets/cards/exp-creetivelab-light.svg" width="276" alt="Creetivelab — Full Stack Developer (2019 – Present)" /></picture></a>
 </p>
 
 <p align="center">
